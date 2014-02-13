@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background: #a66;
+	}
+	p{
+		background: #aa6666;
+		font-size: #5em ;
+		color: #565 ;
+	}
+.tit{
+	background: #49AA08;
+	padding: .5em .5em .5em .5em;
+	margin: .5em .5em .5em .5em ; 
+    border-radius: .50px 5px 44.2px 46.3px;
+    box-shadow: .4px .6px 14px #000000;
+}
+.subTit{background: #6AA8C5;
+	padding: .5em .5em .5em .5em;
+	margin: .5em .5em .5em .5em ; 
+    border-radius: .50px 5px 44.2px 46.3px;
+    box-shadow: .4px .6px 14px #000000;
+}
+.subTit3{background: #6AA8C5;
+	padding: .5em .5em .5em .5em;
+	margin: .5em .5em .5em .5em ; 
+    border-radius: .50px 5px 44.2px 46.3px;
+    box-shadow: .4px .6px 14px #000000;
+}    
